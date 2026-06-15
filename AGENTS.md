@@ -1,3 +1,9 @@
+---
+repo_mode: "bootstrap"
+initialized_on: "2026-06-14"
+last_updated: "2026-06-14"
+project: "ai-helpdesk-workshop"
+---
 # AGENTS.md — Project Context
 
 ## Project
