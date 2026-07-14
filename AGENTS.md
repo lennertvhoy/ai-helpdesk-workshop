@@ -1,7 +1,7 @@
 ---
 repo_mode: "bootstrap"
 initialized_on: "2026-06-14"
-last_updated: "2026-06-14"
+last_updated: "2026-07-14"
 project: "ai-helpdesk-workshop"
 ---
 # AGENTS.md — Project Context
@@ -18,7 +18,15 @@ project: "ai-helpdesk-workshop"
 ## Stack
 [Languages, frameworks, tools]
 
-## StateDD Compliance
+## StateSpec compliance
+
+Public workflow terminology uses **Stateware** for the product category,
+**State-Centric Engineering** for the method, and **StateSpec** for the
+portable specification. Existing `StateDD` paths, commands, schemas, license
+text, and historical records remain compatibility identifiers. See
+`docs/NAMING_AND_COMPATIBILITY.md`.
+
+## StateSpec files
 - [ ] AGENTS.md (this file)
 - [ ] STATUS.md (current status)
 - [ ] PROJECT_STATE.yaml or equivalent

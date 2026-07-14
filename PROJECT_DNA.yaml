@@ -3,6 +3,13 @@
 version: "statedd-template-v4"
 schema_version: "1.0"
 
+terminology:
+  category: Stateware
+  methodology: State-Centric Engineering
+  portable_specification: StateSpec
+  compatibility:
+    - StateDD machine identifiers remain supported until a versioned migration.
+
 product:
   name: "ai-helpdesk-workshop"
   one_sentence: "Project using the ai-helpdesk-workshop Project workflow."
